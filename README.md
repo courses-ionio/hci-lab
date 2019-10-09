@@ -7,11 +7,11 @@
  * _Bring your own laptop:_ Εγκατάσταση ενός linux εντός virtual box
  * _Bring your own laptop:_ Αξιοποίηση Windows Linux Subsystem εφόσον το laptop σας τρέχει Win10
  * Χρήση _persistent live ubuntu usb_ (επιτρέπει την εκτέλεση XUbuntu Desktop περιβάλλοντος το οποίο διατηρεί τις αλλαγές που κάνετε, πχ εγκατάσταση προγραμμάτων)
-   - Μπορείτε να κατεβάσετε ένα κατάλληλο `image` [εδώ](https://195.130.127.104/hci.xubuntu.iso)
+   <!-- - Μπορείτε να κατεβάσετε ένα κατάλληλο `image` [εδώ](https://195.130.127.104/hci.xubuntu.iso)
      - Μεταφέρετε το image σε ένα usb stick τουλάχιστον 4GB
      - Κάντε boot από οποιοδήποτε desktop του εργαστηρίου
-     - _Μετά την ολοκλήρωση της εγκατάστασης το flashάκι σας θα εμφανίζεται να έχει μέγεθος 4GB, χρησιμοποιήστε το [GParted](https://www.howtoforge.com/partitioning_with_gparted) για να δημιουργήσετε ένα νέο partition ό,τι τύπου θέλετε_
-   - Εναλλακτικά ακουλουθήστε [αυτές](https://www.howtogeek.com/howto/14912/create-a-persistent-bootable-ubuntu-usb-flash-drive/) τις οδηγίες και δημιουργήστε το δικό σας persistent live usb
+     - _Μετά την ολοκλήρωση της εγκατάστασης το flashάκι σας θα εμφανίζεται να έχει μέγεθος 4GB, χρησιμοποιήστε το [GParted](https://www.howtoforge.com/partitioning_with_gparted) για να δημιουργήσετε ένα νέο partition ό,τι τύπου θέλετε_ -->
+   - Ακουλουθήστε [αυτές](https://www.howtogeek.com/howto/14912/create-a-persistent-bootable-ubuntu-usb-flash-drive/) τις οδηγίες και δημιουργήστε το δικό σας persistent live usb
 
 ---
 ### Υλικό εργαστηρίου
