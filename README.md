@@ -35,3 +35,10 @@
    * Μελετήστε τις παραμέτρους που μπορεί να πάρει η `asciinema` και
      - ελαχιστοποιήστε το idle recording time σε 1 sec
      - προσθέστε ένα τίτλο στην καταγραφή
+3. Εργαστήριο #3 - Αξιοποίηση git & github
+   * Μελετήστε τη διάλεξη που είναι διαθέσιμη εδώ: https://courses.cs.washington.edu/courses/cse390a/12au/lectures/11/390aGitIntro_12au.pdf
+   υλοποιήστε την δραστηριότητα δημιουργώντας ενός local git repository.
+   * Αξιοποιήστε το GitHub Learning Lab και εγγραφείτε στην εκπαιδευτική δραστηριότητα [Introduction to GitHub](lab.github.com/githubtraining/introduction-to-github) στην οποία θα έχετε τη δυνατότητα να επεξεργαστείτε θέματα όπως:
+     - Assign an issue to yourself / Close an issue
+     - Create a branch / Commit your file to the branch
+     - Open a pull request / Respond to a PR review / Merge a PR
