@@ -42,3 +42,4 @@
      - Assign an issue to yourself / Close an issue
      - Create a branch / Commit your file to the branch
      - Open a pull request / Respond to a PR review / Merge a PR
+...
