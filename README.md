@@ -46,3 +46,4 @@
    * Ελέγξτε ποια έκδοση του vi εκτελείται στο τερματικό σας
      - Αν δεν τρέχει VIM αλλά την παλιότερη έκδοση VI, εγκαταστήστε τον vim μέσω του Homebrew
    * Ακολουθήστε το short tutorial [vim editting exercises](https://nsrc.org/workshops/2017/afnog-bootcamp/exercises/exercises-editing.md.htm)
+   * Αξιοποιήστε όσες περισσότερες εντολές μπορείτε, _cheat sheet_ [εδώ](https://www.thegeekdiary.com/basic-vi-commands-cheat-sheet/)
