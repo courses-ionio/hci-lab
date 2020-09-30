@@ -16,6 +16,7 @@
 ---
 ### Υλικό εργαστηρίου
 
+0. Github + Terminal onboarding
 1. Εργαστήριο #1 - Εισαγωγή στο Unix/Linux shell
 2. Εργαστήριο #2 - Εγκατάσταση προγραμμάτων μέσω του terminal
    * Εγκαταστήστε το [homebrew](https://docs.brew.sh/Homebrew-on-Linux) στο Linux σύστημά σας, παρότι υπάρχουν κάποια security concerns, πχ [εδώ](https://discourse.brew.sh/t/security-issues-using-homebrew-malicious-insertion/3379/2), η χρήση του σε ένα περιορισμένο, εκπαιδευτικό περιβάλλον θα διευκολύνει πολύ την εγκατάσταση των απαιτούμενων προγραμμάτων
