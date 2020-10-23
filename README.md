@@ -5,7 +5,22 @@
 Για να εργαστείτε καθένας στο δικό του περιβάλλον εκτέλεσης, μπορείτε να αξιοποιήσετε όποια από τις πιο κάτω επιλογές σας εξυπηρετεί καλύτερα:
  * _Bring your own laptop:_ Ιδανικά με ήδη εγκατεστημένο linux, πχ ως dual boot
  * _Bring your own laptop:_ Εγκατάσταση ενός linux εντός virtual box
+
+   [Virtual box](https://www.virtualbox.org/)
+\
+   [Download the Linux ISO](https://ubuntu.com/)
+\
+   [Installing Linux in VB](https://itsfoss.com/install-linux-in-virtualbox/)
+
+```
+Χρειαζεται να κατεβάσετε ένα ISO image, του Linux Distribution που θέλετε
+να χρησιμοποιήσετε.. 
+```
+
  * _Bring your own laptop:_ Αξιοποίηση Windows Linux Subsystem εφόσον το laptop σας τρέχει Win10
+ [Οδηγίες](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+
+ 
  * Χρήση _persistent live ubuntu usb_ (επιτρέπει την εκτέλεση XUbuntu Desktop περιβάλλοντος το οποίο διατηρεί τις αλλαγές που κάνετε, πχ εγκατάσταση προγραμμάτων)
    <!-- - Μπορείτε να κατεβάσετε ένα κατάλληλο `image` [εδώ](https://195.130.127.104/hci.xubuntu.iso)
      - Μεταφέρετε το image σε ένα usb stick τουλάχιστον 4GB
