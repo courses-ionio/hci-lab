@@ -18,6 +18,7 @@
 ```
 
  * _Bring your own laptop:_ Αξιοποίηση Windows Linux Subsystem εφόσον το laptop σας τρέχει Win10
+ 
  [Οδηγίες](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 
  
