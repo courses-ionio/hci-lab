@@ -19,19 +19,19 @@
 
  * _Bring your own laptop:_ Αξιοποίηση Windows Linux Subsystem εφόσον το laptop σας τρέχει Win10
  
- Installing Linux in Windows 10 
+ Installing Linux in Windows 10 [Οδηγίες](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 
-Step 1: Enable “Windows Subsystem for Linux” feature
+**Step 1**: Enable “Windows Subsystem for Linux” feature
 Πηγαίνετε στις εφαρμογές και πατήστε Turn Windows Features On and Off. –Από εκεί πρέπει να τσεκάρετε “Windows Subsystem for Linux” and “Virtual Machine Platform” και μετά να κάνετε μία επανεκκίνηση.
-Powershell – Πάμε στο Powershell το οποίο τρέχουμε σαν Administrators. Όταν τρέξει το powershell βάζουμε την παρακάτω εντολή: 
-Enable-WindowsOptionalFeature -Online -FeatureName VirtualMachinePlatform -norestartdism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all
+**Powershell** – Πάμε στο Powershell το οποίο τρέχουμε σαν Administrators. Όταν τρέξει το powershell βάζουμε την παρακάτω εντολή: 
+**Enable-WindowsOptionalFeature** Online -FeatureName VirtualMachinePlatform -norestartdism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all
 Επιβεβαιώνουμε την εντολή με Y
 και κάνουμε reboot το σύστημά μας. 
-Step 2: Download a Linux system from the Windows store
+**Step 2**: Download a Linux system from the Windows store
 I advise going for Ubuntu in this case
 
  
- [Οδηγίες](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+ 
 
  
  * Χρήση _persistent live ubuntu usb_ (επιτρέπει την εκτέλεση XUbuntu Desktop περιβάλλοντος το οποίο διατηρεί τις αλλαγές που κάνετε, πχ εγκατάσταση προγραμμάτων)
