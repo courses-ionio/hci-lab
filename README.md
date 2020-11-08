@@ -72,8 +72,16 @@ I advise going for Ubuntu in this case
      - Create a branch / Commit your file to the branch
      - Open a pull request / Respond to a PR review / Merge a PR
 4. Εργαστήριο #4 - Εξοικείωση με το vim editor
+**What is Vim?** Vim is an advanced text editor. The name Vim is a contraction of Vi and Improved. So, Vim is vi improved. I’m not going to bore you with an entire history lesson, but quickly, Vi is a text editor that was originally created for the Unix operating system. Vi is actually short for “visual” and started out as the visual mode for the even older ex line editor. On most modern systems, Vim has replaced vi. Even if you think you’re starting vi by running the vi command, for example, Vim is what actually starts.So, long story short, Vim is a powerful text editor.
+
+**Why bother learning Vim**: Vim is installed in all Unix systems. Often it is the only text editor on the system. Edit something on the command line, and end up in VIM. It makes a lot of sense to have at least some familiarity with VIM. It is very powerful though. You can edit text much easier than any other text editor. 
+   
    * Ελέγξτε ποια έκδοση του vi εκτελείται στο τερματικό σας
      - Αν δεν τρέχει VIM αλλά την παλιότερη έκδοση VI, εγκαταστήστε τον vim μέσω του Homebrew
    * Ακολουθήστε το short tutorial [vim editting exercises](https://nsrc.org/workshops/2017/afnog-bootcamp/exercises/exercises-editing.md.htm)
    * Αξιοποιήστε όσες περισσότερες εντολές μπορείτε, _cheat sheet_ [εδώ](https://www.thegeekdiary.com/basic-vi-commands-cheat-sheet/)
 * Δύο λόγια για τα VI modes [εδώ](https://www.geeksforgeeks.org/vi-editor-unix/)
+Προπαθήστε να τρέξετε την εντολή *vimtutor* στο shell. Θα σας οδηγήσει σε εναν οδηγό εντός του vim ο οποίος είναι πολύ κατατοπιστικός και μπορεί να
+ολοκληρωθεί σε περίπου 30 λεπτά.
+
+
