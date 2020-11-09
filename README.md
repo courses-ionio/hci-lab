@@ -1,4 +1,14 @@
 # Εργαστήριο μαθήματος Επικοινωνία Ανθρώπου-Υπολογιστή
+## Πρόγραμμα Εργαστηρίου
+| Αριθμός μαθήματος | Υλικό |
+| --- | --- |
+| 1 | [1. Εργαστήριο 1](#εργαστήριο-1) |
+| 2 | [2. Εργαστήριο 2](#εργαστήριο-2) |
+| 3 | [3. Εργαστήριο 3](#εργαστήριο-3) |
+| 4 | [4. Εργαστήριο 4](#εργαστήριο-4) |
+
+
+
 ---
 Για την υλοποίηση των εργασιών του εργαστηρίου θα πρέπει να εργαστείτε σε ένα Unix/Linux terminal. Θα αξιοποιήσετε κάποιες από τις ήδη διαθέσιμες εντολές του shell, αλλά θα χρειαστεί να εγκαταστήσετε και κάποια νέα προγράμματα.
 
@@ -45,8 +55,10 @@ I advise going for Ubuntu in this case
 ### Υλικό εργαστηρίου
 
 0. Github + Terminal onboarding
-1. Εργαστήριο #1 - Εισαγωγή στο Unix/Linux shell
-2. Εργαστήριο #2 - Εγκατάσταση προγραμμάτων μέσω του terminal
+#### Εργαστήριο 1 
+- Εισαγωγή στο Unix/Linux shell
+#### Εργαστήριο 2 
+- Εγκατάσταση προγραμμάτων μέσω του terminal
    * Εγκαταστήστε το [homebrew](https://docs.brew.sh/Homebrew-on-Linux) στο Linux σύστημά σας, παρότι υπάρχουν κάποια security concerns, πχ [εδώ](https://discourse.brew.sh/t/security-issues-using-homebrew-malicious-insertion/3379/2), η χρήση του σε ένα περιορισμένο, εκπαιδευτικό περιβάλλον θα διευκολύνει πολύ την εγκατάσταση των απαιτούμενων προγραμμάτων
      - Η εγκατάσταση του Homebrew προαπαιτεί τη παρουσία διαφόρων λογισμικών, όπως πχ git, τα οποία μπορεί να λείπουν από το περιβάλλον σας και τα οποία θα πρέπει να εγκαταστήσετε - σε περιβάλλον ubuntu αυτό μπορείτε να το πετύχετε ως superuser με την εντολή `sudo apt-get install <package-name>`
    * Εγκατάσταση [asciinema](https://asciinema.org/docs/installation), πχ μέσω brew
@@ -64,14 +76,16 @@ I advise going for Ubuntu in this case
    * Μελετήστε τις παραμέτρους που μπορεί να πάρει η `asciinema` και
      - ελαχιστοποιήστε το idle recording time σε 1 sec
      - προσθέστε ένα τίτλο στην καταγραφή
-3. Εργαστήριο #3 - Αξιοποίηση git & github
+#### Εργαστήριο 3
+- Αξιοποίηση git & github
    * Μελετήστε τη διάλεξη που είναι διαθέσιμη εδώ: https://courses.cs.washington.edu/courses/cse390a/12au/lectures/11/390aGitIntro_12au.pdf
    υλοποιήστε την δραστηριότητα δημιουργώντας ενός local git repository.
    * Αξιοποιήστε το GitHub Learning Lab και εγγραφείτε στην εκπαιδευτική δραστηριότητα [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github) στην οποία θα έχετε τη δυνατότητα να επεξεργαστείτε θέματα όπως:
      - Assign an issue to yourself / Close an issue
      - Create a branch / Commit your file to the branch
      - Open a pull request / Respond to a PR review / Merge a PR
-4. Εργαστήριο #4 - Εξοικείωση με το vim editor
+#### Εργαστήριο 4 
+- Εξοικείωση με το vim editor
 **What is Vim?** Vim is an advanced text editor. The name Vim is a contraction of Vi and Improved. So, Vim is vi improved. I’m not going to bore you with an entire history lesson, but quickly, Vi is a text editor that was originally created for the Unix operating system. Vi is actually short for “visual” and started out as the visual mode for the even older ex line editor. On most modern systems, Vim has replaced vi. Even if you think you’re starting vi by running the vi command, for example, Vim is what actually starts.So, long story short, Vim is a powerful text editor.
 
 **Why bother learning Vim**: Vim is installed in all Unix systems. Often it is the only text editor on the system. Edit something on the command line, and end up in VIM. It makes a lot of sense to have at least some familiarity with VIM. It is very powerful though. You can edit text much easier than any other text editor. 
