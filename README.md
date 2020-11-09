@@ -98,8 +98,12 @@ I advise going for Ubuntu in this case
 Προπαθήστε να τρέξετε την εντολή *vimtutor* στο shell. Θα σας οδηγήσει σε εναν οδηγό εντός του vim ο οποίος είναι πολύ κατατοπιστικός και μπορεί να
 ολοκληρωθεί σε περίπου 30 λεπτά.
 
-**Basic Vim Commands**
+**Basic Vim Commands** - This list is nothing but the tip, of the tip, of the glacier that is Vim. However\
+if you intend to learn Vim, you will soon learn them by heart.\
+\
 **:help [keyword]** - Performs a search of help documentation for whatever keyword you enter\
+**:i** - turns vim to insert mode\
+**ESC key** returns from insert mode\
 **:e [file]** - Opens a file, where [file] is the name of the file you want opened\
 **:w** - Saves the file you are working on\
 **:w [filename]** - Allows you to save your file with the name you've defined\
@@ -107,11 +111,13 @@ I advise going for Ubuntu in this case
 **:q!** - Quit without first saving the file you were working on\
 
 Modes of Vim
-**Command mode**: When in command mode you cannot insert text. Yet there are a lot of intersting commands to use here. The command mode is the default mode of vim.
-
+**Command mode**: When in command mode you cannot insert text. Yet there are a lot of intersting commands to use here. The command mode is the default mode of vim.\
+[Vim editor commands](https://www.radford.edu/~mhtay/CPSC120/VIM_Editor_Commands.htm)
 **insert mode**: We change to insert mode with the **i** key. The mode that allows us to insert text.
 
 **last line mode**: The last vi mode is known as vi last line mode. You can only get to last line mode from command mode, and you get into last line mode by pressing the colon key, like this :
 
-**visual mode**:Visual mode can be very helpful for identifying large of chunks to be manipulated, by changing colors in text.
+**visual mode**:Visual mode can be very helpful for identifying large of chunks to be manipulated, by changing colors in text.\
+[Getting started with Visual mode](https://opensource.com/article/19/2/getting-started-vim-visual-mode)\
+[Mastering Visual mode](https://dev.to/iggredible/mastering-visual-mode-in-vim-15pl)
 
