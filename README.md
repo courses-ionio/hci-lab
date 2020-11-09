@@ -110,7 +110,7 @@ if you intend to learn Vim, you will soon learn them by heart.\
 **:wq** - Save your file and close Vim\
 **:q!** - Quit without first saving the file you were working on\
 
-Modes of Vim
+Modes of Vim\
 **Command mode**: When in command mode you cannot insert text. Yet there are a lot of intersting commands to use here. The command mode is the default mode of vim.\
 [Vim editor commands](https://www.radford.edu/~mhtay/CPSC120/VIM_Editor_Commands.htm)
 **insert mode**: We change to insert mode with the **i** key. The mode that allows us to insert text.
