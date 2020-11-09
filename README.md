@@ -112,7 +112,8 @@ if you intend to learn Vim, you will soon learn them by heart.\
 
 Modes of Vim\
 **Command mode**: When in command mode you cannot insert text. Yet there are a lot of intersting commands to use here. The command mode is the default mode of vim.\
-[Vim editor commands](https://www.radford.edu/~mhtay/CPSC120/VIM_Editor_Commands.htm)
+[Vim editor commands](https://www.radford.edu/~mhtay/CPSC120/VIM_Editor_Commands.htm)\
+
 **insert mode**: We change to insert mode with the **i** key. The mode that allows us to insert text.
 
 **last line mode**: The last vi mode is known as vi last line mode. You can only get to last line mode from command mode, and you get into last line mode by pressing the colon key, like this :
