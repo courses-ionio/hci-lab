@@ -6,7 +6,7 @@
 | 2 | [2. Εργαστήριο 2](#εργαστήριο-2) |
 | 3 | [3. Εργαστήριο 3](#εργαστήριο-3) |
 | 4 | [4. Εργαστήριο 4](#εργαστήριο-4) |
-
+| 5 | [5. Εργαστήριο 5](#εργαστήριο-5) |
 
 
 ---
@@ -121,4 +121,48 @@ Modes of Vim\
 **visual mode**:Visual mode can be very helpful for identifying large of chunks to be manipulated, by changing colors in text.\
 [Getting started with Visual mode](https://opensource.com/article/19/2/getting-started-vim-visual-mode)\
 [Mastering Visual mode](https://dev.to/iggredible/mastering-visual-mode-in-vim-15pl)
+
+#### Εργαστήριο 4
+
+[How to add something to the path](https://linuxize.com/post/how-to-add-directory-to-path-in-linux/)
+
+**Εισαγωγή στο VIM**
+[10 Λόγοι](https://www.linuxtrainingacademy.com/10-reasons-to-learn-the-vim-editor/)
+
+**sudo apt install vim nox**
+**vim** για να ξεκινήσει
+Το vim έχει διάφορα modes. To command mode είναι το default. To insert mode είναι αυτό το οποίο χρησιμοποιείται για να γράψουμε κείμενο.\
+**Στο Insert mode μπαίνουμε με i.** Γυρνάμε στο command mode με το ESC.\
+Με **:w** και το όνομα του αρχείου πχ. text.txt τότε σώζουμε ότι γράψαμε ως ένα αρχείο.\ 
+Για να ξεκινήσουμε το vim από το shell: vim FILENAME\
+:147 --> επιλογή γραμμής βάσει τον αριθμό.\ 
+/foo -->αναζήτηση η οποία σε πάει στην πρώτη Instance του foo.\
+/ --> επανάληψη της τελευταίας αναζήτησης.\
+exit Vim type :q! to trash all changes. or :wq to save all changes
+
+
+#### Εργαστήριο 5
+
+**Εισαγωγή στον προγραμματισμό με VIM**
+
+**:syntax on**->Ανοίγει τα χρώματα για επεξεργασία κειμένου για προγραμματισμό\
+**:set number**--> Βάζει γραμμές στο πλάι της σελίδας για τα errors\
+**set showmatch**› › " Show matching brackets. Χρήσιμο για programming γιατί μπορεί κάποιος να χάνεται ανάμεσα στα brackets.\
+**set ttyfast** --> faster scrolling.\
+**set hlsearch**--> enables search highlighting. Με αυτό τον τρόπο όταν πατάμε / για να ψάξουμε για κάποια λέξη μας δείχνει ighlighted τα matches.\ set showmode this\ shows the mode you're currently in.\
+**set title**α δείξει ως τιτλο το Path για το συγκεκριμένο αρχείο.\
+**:set filetype=[language]**\
+
+**.vimrc**
+Αν θέλουμε να κρατήσουμε τις αλλαγές που κάναμε, πρέπει να τροποποιήσουμε το .vimrc --Αν δεν το έχουμε μπορούμε να το φτιάξουμε. 
+Σημείωση: Υπάρχει πιθανότητα να έχετε ήδη ένα .vimrc αρχείο στο σύστημά σας. Το αρχείο .vimrc που θα φτιάξετε\ στο **home folder** θα υπερισχύσει αυτού που υπάρχει ήδη. 
+
+[Οδηγός εγκατάστασης Vim Plugins για προγραμματιστές](https://www.howtoforge.com/tutorial/vim-editor-plugins-for-software-developers/)
+
+**Shell scripting**
+[Shell Scripting Tutorials](https://www.tutorialspoint.com/unix/shell_scripting.htm)\
+
+#!/bin/sh This is the shebang command. We use it to say to the system that a shell script is being started.
+H εντολή shebang μπαίνει στην αρχή του script. Το αρχείο του βάζουμε την κατάληξη .sh. Τρέχει βάζοντας 
+μπροστά την εντολή Bash. 
 
