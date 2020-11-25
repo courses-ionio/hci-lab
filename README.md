@@ -177,6 +177,9 @@ H εντολή shebang μπαίνει στην αρχή του script. Το αρ
 **git submodule add** PATH_to_forked_repository
 
 
-[Getting started with submodules](https://www.youtube.com/watch?v=8Z4Cmhji_FQ)
-[How to submodules](https://www.youtube.com/watch?v=ZYq3NJnO08U&t=898s)
-[Help changing branch](https://stackoverflow.com/questions/1777854/how-can-i-specify-a-branch-tag-when-adding-a-git-submodule)
+[Getting started with submodules](https://www.youtube.com/watch?v=8Z4Cmhji_FQ)\
+[How to submodules](https://www.youtube.com/watch?v=ZYq3NJnO08U&t=898s)\
+[Help changing branch](https://stackoverflow.com/questions/1777854/how-can-i-specify-a-branch-tag-when-adding-a-git-submodule)\
+[Working with submodules](https://github.blog/2016-02-01-working-with-submodules/)\
+[Adding, using, removing, updating](https://chrisjean.com/git-submodules-adding-using-removing-and-updating/)\
+[Yet another submodule guide](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
