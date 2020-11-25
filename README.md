@@ -166,3 +166,7 @@ exit Vim type :q! to trash all changes. or :wq to save all changes
 H εντολή shebang μπαίνει στην αρχή του script. Το αρχείο του βάζουμε την κατάληξη .sh. Τρέχει βάζοντας 
 μπροστά την εντολή Bash. 
 
+
+Εργαστήριο 6
+
+[Help changing branch](https://stackoverflow.com/questions/1777854/how-can-i-specify-a-branch-tag-when-adding-a-git-submodule)
