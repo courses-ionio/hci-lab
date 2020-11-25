@@ -7,6 +7,9 @@
 | 3 | [3. Εργαστήριο 3](#εργαστήριο-3) |
 | 4 | [4. Εργαστήριο 4](#εργαστήριο-4) |
 | 5 | [5. Εργαστήριο 5](#εργαστήριο-5) |
+| 6 | [6. Εργαστήριο 6](#εργαστήριο-6) |
+
+
 
 
 ---
@@ -167,6 +170,13 @@ H εντολή shebang μπαίνει στην αρχή του script. Το αρ
 μπροστά την εντολή Bash. 
 
 
-Εργαστήριο 6
+#### Εργαστήριο 6
 
+Τα Submodules είναι στην ουσία δείκτες σε μία χρονική στιγμή ενός repository το οποίο χρησιμοποιούμε στο δικό μας.
+
+**git submodule add** PATH_to_forked_repository
+
+
+[Getting started with submodules](https://www.youtube.com/watch?v=8Z4Cmhji_FQ)
+[How to submodules](https://www.youtube.com/watch?v=ZYq3NJnO08U&t=898s)
 [Help changing branch](https://stackoverflow.com/questions/1777854/how-can-i-specify-a-branch-tag-when-adding-a-git-submodule)
