@@ -176,6 +176,12 @@ H εντολή shebang μπαίνει στην αρχή του script. Το αρ
 
 **git submodule add** PATH_to_forked_repository
 
+**Κάποια ενδεικτικά asciinema για την διαδικασία των submodules**
+
+[Adding a submodule](https://asciinema.org/a/9vhZSNlQkO0KwH6lY6gPdWWB8)\
+[Updating a submodule](https://asciinema.org/a/bUMPJqXb9sepWRdlJPyToMpwl)\
+[Deleting a submodule](https://asciinema.org/a/3gFABL73VAJ21UoA4SVzlfRaf)
+
 
 [Getting started with submodules](https://www.youtube.com/watch?v=8Z4Cmhji_FQ)\
 [How to submodules](https://www.youtube.com/watch?v=ZYq3NJnO08U&t=898s)\
